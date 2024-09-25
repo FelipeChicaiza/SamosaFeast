@@ -37,7 +37,7 @@ const App = () => {
   return (
     <div className="App">
       <div className='header'>
-        <h1>Samosa Selector</h1>
+        <h1>Samosa Feast😋</h1>
         <h2>Count: {count}</h2>
         <img className='samosa' src={samosa} onClick={updateCount}></img>
       </div>
